@@ -1,5 +1,6 @@
 Thousand miles by Vanessa Carlton
 
+[Verse 1]
 Makin' my way downtown
 Walkin' fast
 Faces pass
@@ -9,10 +10,12 @@ Starin' blankly ahead
 Just makin' my way, makin' a way
 Through the crowd
 
+[Pre Chorus]
 And I need you
 And I miss you
 And now I wonder
 
+[Chorus]
 If I could fall into the sky
 Do you think time
 Would pass me by?
@@ -20,6 +23,7 @@ Would pass me by?
 If I could just see you
 Tonight
 
+[Verse 2]
 It's always times like these
 When I think of you
 And I wonder, if you ever think of me?
